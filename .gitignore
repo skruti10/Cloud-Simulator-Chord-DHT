@@ -1,0 +1,7 @@
+*.xml
+target/
+*.iml
+*.properties
+.idea/.name
+src/main/scala/abhijay/Project3.scala
+!src/main/resources/simplelogger.properties

@@ -1,0 +1,13 @@
+1. https://github.com/SumeetPande/Chord-Protocol---Scala/blob/master/project3/src/main/scala/project3.scala
+
+2. http://alvinalexander.com/scala/scala-akka-actors-ping-pong-simple-example
+
+3.https://github.com/mayank3d/Chord_Protocol_DHT
+
+4. https://github.com/nagapandupotti/chord-dht/blob/master/Chord.scala
+
+5. https://seattle.poly.edu/wiki/EducationalAssignments/Chord
+
+6. https://www.toptal.com/scala/concurrency-and-fault-tolerance-made-easy-an-intro-to-akka
+
+7. http://alvinalexander.com/scala/how-to-log-output-file-grizzled-slf4j-scala-simplelogger.properties
