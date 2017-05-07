@@ -1,4 +1,4 @@
-This repo contains the HW4 project i.e. **Cloud Simulator using Chord DHT Algorithm** based on Akka Actors.
+This repo contains **Monte Simulator using Chord DHT Algorithm** based on Akka Actors. For now we have just implemented a **Cloud Simulator** and going further this network simulator will be used as Monte Carlo Simulator to test the security framework developed for Android smartphones.
 
 Project Members are: **Abhijay Patne , Kruti Sharma, Sandeep Singh**
 
